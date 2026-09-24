@@ -1,0 +1,6 @@
+MAI-UI Agent (Android MVP)
+
+This app contains a Java port of the MAI-UI navigation agent (system prompt, message
+construction, and output parsing) from https://github.com/Tongyi-MAI/MAI-UI,
+Copyright (c) 2025, Alibaba Cloud and its affiliates, licensed under the Apache License 2.0.
+Swipe geometry follows https://github.com/Tongyi-MAI/MobileWorld.

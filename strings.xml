@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAI-UI Agent</string>
+    <string name="service_label">MAI-UI Agent</string>
+    <string name="service_desc">Lets the MAI-UI model see the screen (screenshots) and perform taps, swipes and typing to complete the task you give it. Nothing runs until you press Start in the app.</string>
+</resources>
